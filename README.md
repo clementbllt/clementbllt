@@ -4,12 +4,9 @@ vous êtes bien sur le github de Clément Boillat !
 
 Développeur Étudiant sur Toulouse passionné par les nouvelles technologies, le cinéma, la musique, l'escalade, le tennis 
 
+</h3>
 À propos de moi
 -Mon mail : **[boillatclement@gmail.com]**
-
-</h3>
-
-### Langages & Frameworks
 
 
 <h1 align="center"> 🚀 Mon Stack Technique </h1>
