@@ -6,7 +6,7 @@ Développeur Étudiant sur Toulouse passionné par les nouvelles technologies, l
 
 </h3>
 À propos de moi
--Mon mail : **[boillatclement@gmail.com]**
+-Mon mail : ** boillatclement@gmail.com **
 
 
 <h1 align="center"> 🚀 Mon Stack Technique </h1>
