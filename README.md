@@ -1,22 +1,21 @@
-# Salut!
-<h3  align="center">
-vous êtes bien sur le github de Clément Boillat ! 
-
-Développeur Étudiant sur Toulouse passionné par les nouvelles technologies, le cinéma, la musique, l'escalade, le tennis 
-
+<h1 align="center">Salut ! 👋</h1>
+<h3 align="center">
+Vous êtes bien sur le GitHub de Clément Boillat !<br>
+Développeur Étudiant sur Toulouse passionné par les nouvelles technologies, le cinéma, la musique, l'escalade et le tennis.
 </h3>
-À propos de moi
--Mon mail : ** boillatclement@gmail.com **
 
+<p align="center">
+  📫 Me contacter : <b>boillatclement@gmail.com</b>
+</p>
 
-<h1 align="center"> 🚀 Mon Stack Technique </h1>
+---
+
+<h2 align="center">🚀 Mon Stack Technique</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
 </p>
-
-
 
 <h2 align="center">🛠️ Outils & Environnement</h2>
 <p align="center">
@@ -27,9 +26,11 @@ Développeur Étudiant sur Toulouse passionné par les nouvelles technologies, l
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
+---
 
-## 📊 Statistiques GitHub
-*Une petite preuve visuelle de ton activité (remplace "ton-pseudo" par le vrai !)*
-
-![Stats de mon GitHub](https://github-readme-stats.vercel.app/api?username=clementbllt&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=clementbllt&layout=compact&theme=radical)
+<h2 align="center">📊 Statistiques GitHub</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=clementbllt&show_icons=true&theme=radical" alt="Stats de Clément" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementbllt&layout=compact&theme=radical" alt="Top Langages" />
+</p>
