@@ -1,15 +1,13 @@
 # Salut!
-## vous etes bien sur le github de Clément Boillat ! 
+<h3  align="center">
+vous êtes bien sur le github de Clément Boillat ! 
 
-### Développeur Étudiant sur Toulouse passionné par les nouvelles technologies, le cinéma, la musique, l'escalade, le tennis 
+Développeur Étudiant sur Toulouse passionné par les nouvelles technologies, le cinéma, la musique, l'escalade, le tennis 
 
----
-
-## 💫 À propos de moi
+À propos de moi
 -Mon mail : **[boillatclement@gmail.com]**
 
----
-
+<\h3>
 
 ### Langages & Frameworks
 
