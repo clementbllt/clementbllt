@@ -12,9 +12,12 @@ Développeur Étudiant sur Toulouse passionné par les nouvelles technologies, l
 
 <h2 align="center">🚀 Mon Stack Technique</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
+<a href="https://github.com/clementbllt?tab=repositories&q=&type=&language=c">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="Mes projets en C" />
+</a>
+  <a href="https://github.com/clementbllt?tab=repositories&q=&type=&language=java">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Mes projets Java" />
+</a>
 
 <h2 align="center">🛠️ Outils & Environnement</h2>
 <p align="center">
