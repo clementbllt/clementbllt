@@ -7,7 +7,7 @@ Développeur Étudiant sur Toulouse passionné par les nouvelles technologies, l
 À propos de moi
 -Mon mail : **[boillatclement@gmail.com]**
 
-<\h3>
+</h3>
 
 ### Langages & Frameworks
 
