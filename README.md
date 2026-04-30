@@ -5,7 +5,7 @@ Développeur Étudiant sur Toulouse passionné par les nouvelles technologies, l
 </h3>
 
 <p align="center">
-  📫 Me contacter : <b>boillatclement@gmail.com </b>
+  📫 Me contacter : <b>boillatclement@gmail.com | </b>
     <b> boillat.clement@univ-tlse3.fr</b>
 </p>
 
